@@ -1,0 +1,36 @@
+{
+  "name": "minify-and-compress",
+  "version": "1.0.0",
+  "description": "A versatile Node.js script for automating file compression and minification",
+  "main": "compress-files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BananikXenos/minify-and-compress.git"
+  },
+  "keywords": [
+    "compression",
+    "minification",
+    "node.js",
+    "file optimization",
+    "web performance",
+    "node-minify",
+    "automated compression",
+    "code optimization",
+    "web development"
+  ],
+  "author": "Synse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BananikXenos/minify-and-compress/issues"
+  },
+  "homepage": "https://github.com/BananikXenos/minify-and-compress#readme",
+  "dependencies": {
+    "@node-minify/core": "^8.0.6",
+    "@node-minify/google-closure-compiler": "^8.0.6",
+    "@node-minify/clean-css": "^8.0.6",
+    "@node-minify/html-minifier": "^8.0.6"
+  }
+}
