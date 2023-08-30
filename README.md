@@ -4,6 +4,7 @@ A versatile Node.js script for automating file compression and minification. Use
 
 ## Table of Contents
 
+- [Screenshot](#screenshot)
 - [Preparation](#preparation)
 - [Installation](#installation)
 - [Required Libraries](#required-libraries)
@@ -11,6 +12,12 @@ A versatile Node.js script for automating file compression and minification. Use
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
+
+## Screenshot
+
+See the tool in action:
+
+![Screenshot](/images/screenshot.png)
 
 ## Preparation
 
