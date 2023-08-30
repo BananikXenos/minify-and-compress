@@ -24,7 +24,7 @@ Before using this script, make sure you have the following in place:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/minify-and-compress.git
+   git clone https://github.com/BananikXenos/minify-and-compress.git
    ```
 2. Navigate to the repository's directory:
    ```bash
